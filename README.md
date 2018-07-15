@@ -6,7 +6,7 @@
 
 node's data type: **string**, **number**.
 
-<img alt="AVL Tree" width="420" src="https://user-images.githubusercontent.com/6517308/35717972-dfc67334-07a7-11e8-8678-5a15e3412084.png" />
+<img width="1387" alt="AVL Tree" src="https://user-images.githubusercontent.com/6517308/37691467-e9c7db8a-2c77-11e8-844a-c6b6c0ff93dd.png">
 
 ## Usage
 ```js
