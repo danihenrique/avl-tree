@@ -21,9 +21,9 @@ const avl = avlTree();
 creates a binary tree node with height property.
 
 * **.setValue(value)** sets the node's value.
-* **.getValue(value)** gets the node's value.
+* **.getValue()** gets the node's value.
 * **.setParent(parent)** sets the parent node.
-* **.getParent(parent)** gets the parent node.
+* **.getParent()** gets the parent node.
 * **.setLeft(left)** sets the node's left child.
 * **.getLeft()** gets the node's left child.
 * **.setRight(right)** sets the node's right child.
