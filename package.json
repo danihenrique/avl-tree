@@ -1,6 +1,6 @@
 {
   "name": "@datastructures-js/avl-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "avl tree implementation in javascript",
   "main": "index.js",
   "scripts": {
