@@ -1,8 +1,8 @@
 # @datastrucures-js/avl-tree
 
-[![build:?](https://travis-ci.org/eyas-ranjous/datatructures-js/avl-tree.svg?branch=master)](https://travis-ci.org/eyas-ranjous/datatructures-js/avl-tree) 
+[![build:?](https://travis-ci.org/datatructures-js/avl-tree.svg?branch=master)](https://travis-ci.org/datatructures-js/avl-tree) 
 [![npm](https://img.shields.io/npm/v/@datastructures-js/avl-tree.svg)](https://www.npmjs.com/package/@datastructures-js/avl-tree)
-[![npm](https://img.shields.io/npm/dm/@datastructures-js/avl-tree.svg)](https://www.npmjs.com/packages/@datastructures-js/avl-tree) [![npm](https://img.shields.io/badge/node-%3E=%206.0-blue.svg)](https://www.npmjs.com/package/@datastructures-js/avl-tree)
+[![npm](https://img.shields.io/npm/dm/@datastructures-js/avl-tree.svg)](https://www.npmjs.com/package/@datastructures-js/avl-tree) [![npm](https://img.shields.io/badge/node-%3E=%206.0-blue.svg)](https://www.npmjs.com/package/@datastructures-js/avl-tree)
 
 node's data type: **string**, **number**.
 
